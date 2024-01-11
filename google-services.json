@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "515596893142",
+    "project_id": "mauifirebasenotification",
+    "storage_bucket": "mauifirebasenotification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515596893142:android:0be43a9ca54a4668424277",
+        "android_client_info": {
+          "package_name": "com.companyname.MAUIFirebaseNotification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYQv2l5fDVsKgjH7cjR04MFXt4nL3oRPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
